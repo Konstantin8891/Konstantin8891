@@ -32,6 +32,6 @@ Bash
 
 ### Контакты
 
-+79117836285 Telegram WhatsApp
++79217821766 Telegram
 
 89670253660@mail.ru
