@@ -16,11 +16,11 @@ Django
 Django REST Framework
 DRF
 GeoDjango
+FastAPI
 PostgreSQL
 SQlite3
 Linux
 Ubuntu
-Mint
 Docker
 Git
 Nginx
@@ -28,7 +28,6 @@ Nginx
 Gunicorn
 HTML
 REST API
-Bash
 
 ### Контакты
 
